@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/efridge/cop3813-fall20-lab-2#readme",
   "dependencies": {
+    "readline": "^1.3.0",
     "readline-sync": "^1.4.10"
   }
 }
