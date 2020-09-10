@@ -1,0 +1,22 @@
+{
+  "name": "lab-2",
+  "version": "1.0.0",
+  "description": "The purpose of this lab is to learn about the different ways of working asynchronously with JS code, and the pros/cons of each.",
+  "main": "sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efridge/cop3813-fall20-lab-2.git"
+  },
+  "author": "E.L. Fridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efridge/cop3813-fall20-lab-2/issues"
+  },
+  "homepage": "https://github.com/efridge/cop3813-fall20-lab-2#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
